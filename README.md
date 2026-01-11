@@ -39,6 +39,7 @@ src/main/java/io/smartpos
 - JDK 17 or higher
 - Maven 3.8+
 - MySQL Server 8.0+
+- Thermal printer connectivity (optional for physical tickets).
 
 ### Database Setup
 
