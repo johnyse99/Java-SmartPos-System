@@ -57,11 +57,9 @@ src/main/java/io/smartpos
 mvn clean compile exec:java
 ```
 
-## 📝 License
+---
 
-This project is licensed under the [MIT License](LICENSE).
+📄 **License**
+This project is distributed under the MIT license. Its purpose is strictly educational and research-based, developed as an Applied Java solution.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
