@@ -63,9 +63,10 @@ mvn clean compile exec:java
 📄 **License**
 This project is distributed under the MIT license. Its purpose is strictly educational and research-based, developed as an Applied Java solution.
 
-Note for recruiters: This project demonstrates my ability to design and implement complex systems using professional standards. It highlights my mastery of transactional integrity, clean architecture, and the development of resilient software capable of handling real-world failure scenarios.
+**Note for recruiters:**
+This project demonstrates my ability to design and implement complex systems using professional standards. It highlights my mastery of transactional integrity, clean architecture, and the development of resilient software capable of handling real-world failure scenarios.
 
-Author: JUAN S.
-Contact: https://github.com/johnyse99
+**Author:** JUAN S.  
+**Contact:** https://github.com/johnyse99
 
 
